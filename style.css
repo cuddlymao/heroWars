@@ -1,0 +1,25 @@
+body{
+    background-image: url("hero wars image.jpg");
+    background-repeat: no-repeat;
+   background-size: 1500px 900px;
+   
+    color:blueviolet;
+
+}
+h1{
+    font-size:50px;
+    text-align:center;
+}
+img {
+   
+    border:5px solid;
+    border-color:yellow;
+    width:250px ;
+    height:200px;
+    
+}
+#writing{
+    font-size: 30px;
+    color:azure;
+    background-color:purple;
+}
